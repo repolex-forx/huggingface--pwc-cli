@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/pwc-cli/commit/125ffe07aad3d268bc2e3ddd8d79f159b4bc2f2b",
       "git:hexsha": "125ffe07aad3d268bc2e3ddd8d79f159b4bc2f2b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T14:36:09.337504+00:00"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/pwc-cli/commit/3ee39f110671f922b8587993462a5cba5a0d7710",
